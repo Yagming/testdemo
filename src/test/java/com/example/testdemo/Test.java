@@ -56,6 +56,7 @@ public class Test {
         System.out.println("test second git");
         System.out.println("test second git3");
         System.out.println("test second git4");
+        System.out.println("hot-fix test");
     }
 
 
