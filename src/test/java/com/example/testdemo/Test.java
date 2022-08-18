@@ -58,6 +58,9 @@ public class Test {
         System.out.println("test second git4");
         System.out.println("master test");
         System.out.println("hot-fix test");
+
+        System.out.println("push test");
+
     }
 
 
